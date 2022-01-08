@@ -1,0 +1,46 @@
+.me {
+    color: lavender;
+    width: 49%;
+    margin-left: 40%;
+    margin-top: 10%;
+    padding: 1%;
+    font-family: sans-serif;
+    font-size: 20px;
+    border-style: groove;
+    border-top-right-radius: 2% ;
+    border-top-left-radius: 5%;
+    border-bottom-right-radius: 5%;
+    border-bottom-left-radius: 2% ;
+}
+
+
+    .p1 {position: static;
+         left: 10%;
+          bottom: 15%;
+          font-size: 17px;
+        display: grid;
+        }
+
+.content{
+    color: lavender;
+    width: 49%;
+    margin-left: 40%;
+    margin-top: 2%;
+    padding: 1%;
+    font-family: sans-serif;
+    font-size: 20px;
+    border-style: groove;
+    border-top-right-radius: 2% ;
+    border-top-left-radius: 5%;
+    border-bottom-right-radius: 5%;
+    border-bottom-left-radius: 2% ;
+
+}
+
+    .input{
+        border-style: groove;
+    border-top-right-radius: 2% ;
+    border-top-left-radius: 5%;
+    border-bottom-right-radius: 5%;
+    border-bottom-left-radius: 2% ;
+    }
